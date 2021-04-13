@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtelierFox
-- 👀 I’m interested in Functional Programming, Category Theory, Game Engines, FPGAs & Reprogrammable Hardware
+- 👀 I’m interested in Functional Programming, Category Theory, Game Engines, FPGAs, & Reprogrammable Hardware
 - 🌱 I’m currently learning Haskell, Scala 3
 - 💞️ I’m looking to collaborate on FPGA Projects, Engines, or other functional programming projects.
 - I'm currently working on a functional type-safe game engine based on John Carmack's QuakeCon 2013 talk. Still in very early prototype stages.
