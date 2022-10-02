@@ -1,4 +1,4 @@
-- 👋 Hi, We’re @AtelierFox
+- 👋 Hi, We’re @AtelierSnek
 - 👀 We’re interested in Functional Programming, Category Theory, Game Engines, FPGAs, & Reprogrammable Hardware
 - 🌱 We’re currently learning Haskell, Scala 3
 - 💞️ We’re looking to collaborate on FPGA Projects, Engines, or other functional programming projects.
